@@ -50,7 +50,7 @@ More coming soon.
 ---
 
 <p align="center">
-  <img alt="purely-go snowglobe gopher" src="snowglobe.png" width="256" />
+  <img alt="purely-go snowglobe gopher" src="../snowglobe.jpg" width="256" />
 </p>
 
 <p align="center">
