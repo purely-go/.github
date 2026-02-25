@@ -37,9 +37,9 @@ If it wouldn't work in a minimal container or a locked-down CI runner with only 
 
 ## Projects
 
-- **GoNativeBuildpacks** — Go-native, CNB-inspired source-to-image engine (library-first; no daemon; no shell-outs)
+- COMING SOON: **GoNativeBuildpacks** — A library-first, Go-native, CNB-inspired source-to-image engine (no daemon, no buildkit, no shell-outs)
 
-More coming soon.
+More to come...
 
 ## Contributing
 
